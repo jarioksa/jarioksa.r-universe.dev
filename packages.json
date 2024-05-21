@@ -6,5 +6,8 @@
   "url": "https://github.com/jarioksa/natto"
   },
   {"package": "GO",
-   "url": "https://github.com/jarioksa/GO"}
+   "url": "https://github.com/jarioksa/GO"
+  },
+  {"package": "gravy",
+   "url": "https://github.com/jarioksa/gravy"}
 ]
