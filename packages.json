@@ -9,5 +9,7 @@
    "url": "https://github.com/jarioksa/GO"
   },
   {"package": "gravy",
-   "url": "https://github.com/jarioksa/gravy"}
+   "url": "https://github.com/jarioksa/gravy"},
+  {"package": "lmodel2",
+   "url": "https://github.com/vegandevs/lmodel2"}
 ]
